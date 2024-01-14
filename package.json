@@ -1,0 +1,26 @@
+{
+  "name": "color",
+  "version": "1.0.0",
+  "description": "this is color",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testProject16/color.git"
+  },
+  "keywords": [
+    "color"
+  ],
+  "author": "sumit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testProject16/color/issues"
+  },
+  "homepage": "https://github.com/testProject16/color#readme",
+  "dependencies": {
+    "chalk-animation": "^2.0.3"
+  }
+}
